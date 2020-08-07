@@ -9,6 +9,7 @@ class Home extends Component {
           return (
           <div  >
               Welcome, {`${this.props.current_user}`}! Enjoy the crosswords and try to beat the times!
+              Time to test this
           </div>
           )
       }
