@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crossword-frontend/static/css/main.5f361e03.chunk.css",
+    "main.js": "/crossword-frontend/static/js/main.7c28a5e5.chunk.js",
+    "main.js.map": "/crossword-frontend/static/js/main.7c28a5e5.chunk.js.map",
+    "runtime-main.js": "/crossword-frontend/static/js/runtime-main.dcba6284.js",
+    "runtime-main.js.map": "/crossword-frontend/static/js/runtime-main.dcba6284.js.map",
+    "static/js/2.5f8862c4.chunk.js": "/crossword-frontend/static/js/2.5f8862c4.chunk.js",
+    "static/js/2.5f8862c4.chunk.js.map": "/crossword-frontend/static/js/2.5f8862c4.chunk.js.map",
+    "index.html": "/crossword-frontend/index.html",
+    "precache-manifest.cdde34b8b536fc9dd026e01d5350ad05.js": "/crossword-frontend/precache-manifest.cdde34b8b536fc9dd026e01d5350ad05.js",
+    "service-worker.js": "/crossword-frontend/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/crossword-frontend/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5f8862c4.chunk.js.LICENSE.txt": "/crossword-frontend/static/js/2.5f8862c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcba6284.js",
+    "static/js/2.5f8862c4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7c28a5e5.chunk.js"
+  ]
+}
